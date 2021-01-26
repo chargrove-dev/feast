@@ -1,0 +1,2 @@
+# feast
+Front-End to Abstract Syntax Tree (FEAST).  Nearly 20-year-old small library I wrote for parser generation, which made its way into a number of games I worked on over the years.  I unlicensed it into the public domain years ago, but never bothered uploading it to Github until now.  Crufty old code, I'm not trying to to maintain it any more (please don't contact me for support), but it's battle-tested enough to be useful in some contexts.  You'll probably have to mess with it to make it work with modern compilers.
